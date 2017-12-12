@@ -1,0 +1,1172 @@
+Tue Nov  7 13:19:21 UTC 2017: Socket created
+Tue Nov  7 13:19:21 UTC 2017: Bind done
+Tue Nov  7 13:19:21 UTC 2017: Waiting for incoming connections...
+Tue Nov  7 13:19:23 UTC 2017: Connection accepted
+Tue Nov  7 13:19:23 UTC 2017: [(5) ]
+Tue Nov  7 13:19:23 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov  7 13:20:09 UTC 2017: Connection accepted
+Tue Nov  7 13:20:09 UTC 2017: [(6) (5) ]
+Tue Nov  7 13:20:09 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov  7 13:20:39 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov  7 13:20:39 UTC 2017: Deleting 6 from list
+Tue Nov  7 13:20:39 UTC 2017: Now server count is 1
+** Trapped CTRL-C
+Tue Nov  7 13:23:59 UTC 2017: Server will be stopped
+Tue Nov  7 13:23:59 UTC 2017: Waiting server thread to stop
+Tue Nov  7 13:23:59 UTC 2017: Forced stop of thread
+Tue Nov  7 13:23:59 UTC 2017: End of thread
+Tue Nov  7 13:23:59 UTC 2017: 
+Tue Nov  7 13:23:59 UTC 2017: Deleted value:(5) []
+Tue Nov  7 13:24:01 UTC 2017: Socket created
+Tue Nov  7 13:24:01 UTC 2017: Bind done
+Tue Nov  7 13:24:01 UTC 2017: Waiting for incoming connections...
+Tue Nov  7 13:24:40 UTC 2017: Connection accepted
+Tue Nov  7 13:24:40 UTC 2017: [(5) ]
+Tue Nov  7 13:24:40 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov  7 13:24:44 UTC 2017: Connection accepted
+Tue Nov  7 13:24:44 UTC 2017: [(6) (5) ]
+Tue Nov  7 13:24:44 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov  7 13:25:39 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov  7 13:25:39 UTC 2017: Deleting 5 from list
+Tue Nov  7 13:25:39 UTC 2017: Now server count is 1
+** Trapped CTRL-C
+Tue Nov  7 13:28:33 UTC 2017: Server will be stopped
+Tue Nov  7 13:28:33 UTC 2017: Waiting server thread to stop
+Tue Nov  7 13:28:33 UTC 2017: Forced stop of thread
+Tue Nov  7 13:28:33 UTC 2017: End of thread
+Tue Nov  7 13:28:33 UTC 2017: 
+Tue Nov  7 13:28:33 UTC 2017: Deleted value:(6) []
+Tue Nov  7 13:28:35 UTC 2017: Socket created
+Tue Nov  7 13:28:35 UTC 2017: Bind done
+Tue Nov  7 13:28:35 UTC 2017: Waiting for incoming connections...
+Tue Nov  7 13:28:44 UTC 2017: Connection accepted
+Tue Nov  7 13:28:44 UTC 2017: [(5) ]
+Tue Nov  7 13:28:44 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov  7 13:28:45 UTC 2017: Connection accepted
+Tue Nov  7 13:28:45 UTC 2017: [(6) (5) ]
+Tue Nov  7 13:28:45 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov  7 13:29:39 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov  7 13:29:39 UTC 2017: write to socket: Broken pipe
+Tue Nov  7 13:29:39 UTC 2017: Deleting 5 from list
+Tue Nov  7 13:29:39 UTC 2017: Now server count is 1
+Tue Nov  7 18:35:39 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov  7 18:35:39 UTC 2017: write to socket: Broken pipe
+Tue Nov  7 18:35:39 UTC 2017: Deleting 6 from list
+Tue Nov  7 18:35:39 UTC 2017: Now server count is 0
+Tue Nov  7 18:35:46 UTC 2017: Connection accepted
+Tue Nov  7 18:35:46 UTC 2017: [(5) ]
+Tue Nov  7 18:35:46 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov  7 22:15:08 UTC 2017: Connection accepted
+Tue Nov  7 22:15:08 UTC 2017: [(6) (5) ]
+Tue Nov  7 22:15:08 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov  7 22:15:39 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov  7 22:15:39 UTC 2017: write to socket: Broken pipe
+Tue Nov  7 22:15:39 UTC 2017: Deleting 5 from list
+Tue Nov  7 22:15:39 UTC 2017: Now server count is 1
+Wed Nov  8 07:32:17 UTC 2017: Connection accepted
+Wed Nov  8 07:32:17 UTC 2017: [(5) (6) ]
+Wed Nov  8 07:32:17 UTC 2017: Handler No. 1 with fd 5 assigned
+Wed Nov  8 07:32:40 UTC 2017: write to socket 6 returned -1, errno is 32
+Wed Nov  8 07:32:40 UTC 2017: write to socket: Broken pipe
+Wed Nov  8 07:32:40 UTC 2017: Deleting 6 from list
+Wed Nov  8 07:32:40 UTC 2017: Now server count is 1
+Wed Nov  8 07:35:40 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov  8 07:35:40 UTC 2017: write to socket: Broken pipe
+Wed Nov  8 07:35:40 UTC 2017: Deleting 5 from list
+Wed Nov  8 07:35:40 UTC 2017: Now server count is 0
+Wed Nov  8 09:56:44 UTC 2017: Connection accepted
+Wed Nov  8 09:56:44 UTC 2017: [(5) ]
+Wed Nov  8 09:56:44 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov  8 10:00:40 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov  8 10:00:40 UTC 2017: write to socket: Broken pipe
+Wed Nov  8 10:00:40 UTC 2017: Deleting 5 from list
+Wed Nov  8 10:00:40 UTC 2017: Now server count is 0
+Wed Nov  8 10:23:18 UTC 2017: Connection accepted
+Wed Nov  8 10:23:18 UTC 2017: [(5) ]
+Wed Nov  8 10:23:18 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov  8 19:32:40 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov  8 19:32:40 UTC 2017: write to socket: Broken pipe
+Wed Nov  8 19:32:40 UTC 2017: Deleting 5 from list
+Wed Nov  8 19:32:40 UTC 2017: Now server count is 0
+Wed Nov  8 19:39:36 UTC 2017: Connection accepted
+Wed Nov  8 19:39:36 UTC 2017: [(5) ]
+Wed Nov  8 19:39:36 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov  9 01:10:25 UTC 2017: Connection accepted
+Thu Nov  9 01:10:25 UTC 2017: [(6) (5) ]
+Thu Nov  9 01:10:25 UTC 2017: Handler No. 1 with fd 6 assigned
+Thu Nov  9 01:10:26 UTC 2017: Connection accepted
+Thu Nov  9 01:10:26 UTC 2017: [(7) (6) (5) ]
+Thu Nov  9 01:10:26 UTC 2017: Handler No. 2 with fd 7 assigned
+Thu Nov  9 01:10:30 UTC 2017: No handler assigned as max connection count (3) reached
+Thu Nov  9 01:10:31 UTC 2017: No handler assigned as max connection count (3) reached
+Thu Nov  9 01:10:40 UTC 2017: write to socket 7 returned -1, errno is 32
+Thu Nov  9 01:10:40 UTC 2017: write to socket: Broken pipe
+Thu Nov  9 01:10:40 UTC 2017: Deleting 7 from list
+Thu Nov  9 01:10:40 UTC 2017: Now server count is 2
+Thu Nov  9 01:10:40 UTC 2017: write to socket 6 returned -1, errno is 32
+Thu Nov  9 01:10:40 UTC 2017: write to socket: Broken pipe
+Thu Nov  9 01:10:40 UTC 2017: Deleting 6 from list
+Thu Nov  9 01:10:40 UTC 2017: Now server count is 1
+Thu Nov  9 12:51:06 UTC 2017: Connection accepted
+Thu Nov  9 12:51:06 UTC 2017: [(6) (5) ]
+Thu Nov  9 12:51:06 UTC 2017: Handler No. 1 with fd 6 assigned
+Thu Nov  9 12:51:40 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov  9 12:51:40 UTC 2017: write to socket: Broken pipe
+Thu Nov  9 12:51:40 UTC 2017: Deleting 5 from list
+Thu Nov  9 12:51:40 UTC 2017: Now server count is 1
+Thu Nov  9 17:58:01 UTC 2017: Socket created
+Thu Nov  9 17:58:01 UTC 2017: Bind done
+Thu Nov  9 17:58:01 UTC 2017: Waiting for incoming connections...
+Thu Nov  9 18:10:01 UTC 2017: Socket created
+Thu Nov  9 18:10:01 UTC 2017: Bind done
+Thu Nov  9 18:10:01 UTC 2017: Waiting for incoming connections...
+Thu Nov  9 18:37:20 UTC 2017: Connection accepted
+Thu Nov  9 18:37:20 UTC 2017: [(5) ]
+Thu Nov  9 18:37:20 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov  9 19:00:01 UTC 2017: Socket created
+Thu Nov  9 19:00:01 UTC 2017: Bind done
+Thu Nov  9 19:00:01 UTC 2017: Waiting for incoming connections...
+Thu Nov  9 21:45:46 UTC 2017: Connection accepted
+Thu Nov  9 21:45:46 UTC 2017: [(5) ]
+Thu Nov  9 21:45:46 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 10 13:14:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 10 13:14:41 UTC 2017: write to socket: Broken pipe
+Fri Nov 10 13:14:41 UTC 2017: Deleting 5 from list
+Fri Nov 10 13:14:41 UTC 2017: Now server count is 0
+Fri Nov 10 13:14:56 UTC 2017: Connection accepted
+Fri Nov 10 13:14:56 UTC 2017: [(5) ]
+Fri Nov 10 13:14:56 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 10 22:07:40 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 10 22:07:40 UTC 2017: write to socket: Broken pipe
+Fri Nov 10 22:07:40 UTC 2017: Deleting 5 from list
+Fri Nov 10 22:07:40 UTC 2017: Now server count is 0
+Fri Nov 10 22:10:09 UTC 2017: Connection accepted
+Fri Nov 10 22:10:09 UTC 2017: [(5) ]
+Fri Nov 10 22:10:09 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 10 22:13:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 10 22:13:41 UTC 2017: write to socket: Broken pipe
+Fri Nov 10 22:13:41 UTC 2017: Deleting 5 from list
+Fri Nov 10 22:13:41 UTC 2017: Now server count is 0
+Fri Nov 10 22:14:04 UTC 2017: Connection accepted
+Fri Nov 10 22:14:04 UTC 2017: [(5) ]
+Fri Nov 10 22:14:04 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 11 22:06:16 UTC 2017: Connection accepted
+Sat Nov 11 22:06:16 UTC 2017: [(6) (5) ]
+Sat Nov 11 22:06:16 UTC 2017: Handler No. 1 with fd 6 assigned
+Sat Nov 11 22:06:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 11 22:06:41 UTC 2017: write to socket: Broken pipe
+Sat Nov 11 22:06:41 UTC 2017: Deleting 5 from list
+Sat Nov 11 22:06:41 UTC 2017: Now server count is 1
+Sun Nov 12 07:10:14 UTC 2017: Connection accepted
+Sun Nov 12 07:10:14 UTC 2017: [(5) (6) ]
+Sun Nov 12 07:10:14 UTC 2017: Handler No. 1 with fd 5 assigned
+Sun Nov 12 07:10:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 12 07:10:41 UTC 2017: write to socket: Broken pipe
+Sun Nov 12 07:10:41 UTC 2017: Deleting 5 from list
+Sun Nov 12 07:10:41 UTC 2017: Now server count is 1
+Sun Nov 12 08:39:40 UTC 2017: write to socket 6 returned -1, errno is 32
+Sun Nov 12 08:39:40 UTC 2017: write to socket: Broken pipe
+Sun Nov 12 08:39:40 UTC 2017: Deleting 6 from list
+Sun Nov 12 08:39:40 UTC 2017: Now server count is 0
+Sun Nov 12 08:40:51 UTC 2017: Connection accepted
+Sun Nov 12 08:40:51 UTC 2017: [(5) ]
+Sun Nov 12 08:40:51 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Nov 13 05:49:28 UTC 2017: Connection accepted
+Mon Nov 13 05:49:28 UTC 2017: [(6) (5) ]
+Mon Nov 13 05:49:28 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Nov 13 05:49:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Nov 13 05:49:41 UTC 2017: write to socket: Broken pipe
+Mon Nov 13 05:49:41 UTC 2017: Deleting 5 from list
+Mon Nov 13 05:49:41 UTC 2017: Now server count is 1
+Mon Nov 13 11:38:42 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Nov 13 11:38:42 UTC 2017: write to socket: Broken pipe
+Mon Nov 13 11:38:42 UTC 2017: Deleting 6 from list
+Mon Nov 13 11:38:42 UTC 2017: Now server count is 0
+Mon Nov 13 11:39:10 UTC 2017: Connection accepted
+Mon Nov 13 11:39:10 UTC 2017: [(5) ]
+Mon Nov 13 11:39:10 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 07:12:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 07:12:42 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 07:12:42 UTC 2017: Deleting 5 from list
+Tue Nov 14 07:12:42 UTC 2017: Now server count is 0
+Tue Nov 14 07:43:32 UTC 2017: Connection accepted
+Tue Nov 14 07:43:32 UTC 2017: [(5) ]
+Tue Nov 14 07:43:32 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 07:47:15 UTC 2017: Connection accepted
+Tue Nov 14 07:47:15 UTC 2017: [(6) (5) ]
+Tue Nov 14 07:47:15 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov 14 07:47:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 07:47:42 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 07:47:42 UTC 2017: Deleting 5 from list
+Tue Nov 14 07:47:42 UTC 2017: Now server count is 1
+Tue Nov 14 07:53:42 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov 14 07:53:42 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 07:53:42 UTC 2017: Deleting 6 from list
+Tue Nov 14 07:53:42 UTC 2017: Now server count is 0
+Tue Nov 14 08:50:43 UTC 2017: Connection accepted
+Tue Nov 14 08:50:43 UTC 2017: [(5) ]
+Tue Nov 14 08:50:43 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 09:08:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 09:08:41 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 09:08:41 UTC 2017: Deleting 5 from list
+Tue Nov 14 09:08:41 UTC 2017: Now server count is 0
+Tue Nov 14 09:12:48 UTC 2017: Connection accepted
+Tue Nov 14 09:12:48 UTC 2017: [(5) ]
+Tue Nov 14 09:12:48 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 09:20:41 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 09:20:41 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 09:20:41 UTC 2017: Deleting 5 from list
+Tue Nov 14 09:20:42 UTC 2017: Now server count is 0
+Tue Nov 14 09:26:26 UTC 2017: Connection accepted
+Tue Nov 14 09:26:26 UTC 2017: [(5) ]
+Tue Nov 14 09:26:26 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 11:26:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 11:26:42 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 11:26:42 UTC 2017: Deleting 5 from list
+Tue Nov 14 11:26:42 UTC 2017: Now server count is 0
+Tue Nov 14 11:29:25 UTC 2017: Connection accepted
+Tue Nov 14 11:29:25 UTC 2017: [(5) ]
+Tue Nov 14 11:29:25 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 14 12:57:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 14 12:57:42 UTC 2017: write to socket: Broken pipe
+Tue Nov 14 12:57:42 UTC 2017: Deleting 5 from list
+Tue Nov 14 12:57:42 UTC 2017: Now server count is 0
+Tue Nov 14 12:59:27 UTC 2017: Connection accepted
+Tue Nov 14 12:59:27 UTC 2017: [(5) ]
+Tue Nov 14 12:59:27 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 15 09:50:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 15 09:50:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 09:50:42 UTC 2017: Deleting 5 from list
+Wed Nov 15 09:50:42 UTC 2017: Now server count is 0
+Wed Nov 15 10:08:44 UTC 2017: Connection accepted
+Wed Nov 15 10:08:44 UTC 2017: [(5) ]
+Wed Nov 15 10:08:44 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 15 10:11:20 UTC 2017: Connection accepted
+Wed Nov 15 10:11:20 UTC 2017: [(6) (5) ]
+Wed Nov 15 10:11:20 UTC 2017: Handler No. 1 with fd 6 assigned
+Wed Nov 15 10:11:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 15 10:11:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 10:11:42 UTC 2017: Deleting 5 from list
+Wed Nov 15 10:11:42 UTC 2017: Now server count is 1
+Wed Nov 15 10:56:42 UTC 2017: write to socket 6 returned -1, errno is 32
+Wed Nov 15 10:56:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 10:56:42 UTC 2017: Deleting 6 from list
+Wed Nov 15 10:56:42 UTC 2017: Now server count is 0
+Wed Nov 15 11:03:01 UTC 2017: Connection accepted
+Wed Nov 15 11:03:01 UTC 2017: [(5) ]
+Wed Nov 15 11:03:01 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 15 12:45:20 UTC 2017: Connection accepted
+Wed Nov 15 12:45:20 UTC 2017: [(6) (5) ]
+Wed Nov 15 12:45:20 UTC 2017: Handler No. 1 with fd 6 assigned
+Wed Nov 15 12:45:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 15 12:45:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 12:45:42 UTC 2017: Deleting 5 from list
+Wed Nov 15 12:45:42 UTC 2017: Now server count is 1
+Wed Nov 15 14:20:42 UTC 2017: write to socket 6 returned -1, errno is 32
+Wed Nov 15 14:20:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 14:20:42 UTC 2017: Deleting 6 from list
+Wed Nov 15 14:20:42 UTC 2017: Now server count is 0
+Wed Nov 15 14:22:09 UTC 2017: Connection accepted
+Wed Nov 15 14:22:09 UTC 2017: [(5) ]
+Wed Nov 15 14:22:09 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 15 17:33:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 15 17:33:42 UTC 2017: write to socket: Broken pipe
+Wed Nov 15 17:33:42 UTC 2017: Deleting 5 from list
+Wed Nov 15 17:33:42 UTC 2017: Now server count is 0
+Wed Nov 15 17:45:40 UTC 2017: Connection accepted
+Wed Nov 15 17:45:40 UTC 2017: [(5) ]
+Wed Nov 15 17:45:40 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 16 13:39:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 16 13:39:43 UTC 2017: write to socket: Broken pipe
+Thu Nov 16 13:39:43 UTC 2017: Deleting 5 from list
+Thu Nov 16 13:39:43 UTC 2017: Now server count is 0
+Thu Nov 16 13:39:56 UTC 2017: Connection accepted
+Thu Nov 16 13:39:56 UTC 2017: [(5) ]
+Thu Nov 16 13:39:56 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 16 23:54:16 UTC 2017: Connection accepted
+Thu Nov 16 23:54:16 UTC 2017: [(6) (5) ]
+Thu Nov 16 23:54:16 UTC 2017: Handler No. 1 with fd 6 assigned
+Thu Nov 16 23:54:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 16 23:54:43 UTC 2017: write to socket: Broken pipe
+Thu Nov 16 23:54:43 UTC 2017: Deleting 5 from list
+Thu Nov 16 23:54:43 UTC 2017: Now server count is 1
+Thu Nov 16 23:56:39 UTC 2017: Connection accepted
+Thu Nov 16 23:56:39 UTC 2017: [(5) (6) ]
+Thu Nov 16 23:56:39 UTC 2017: Handler No. 1 with fd 5 assigned
+Thu Nov 16 23:56:43 UTC 2017: write to socket 6 returned -1, errno is 32
+Thu Nov 16 23:56:43 UTC 2017: write to socket: Broken pipe
+Thu Nov 16 23:56:43 UTC 2017: Deleting 6 from list
+Thu Nov 16 23:56:43 UTC 2017: Now server count is 1
+Fri Nov 17 00:01:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 17 00:01:43 UTC 2017: write to socket: Broken pipe
+Fri Nov 17 00:01:43 UTC 2017: Deleting 5 from list
+Fri Nov 17 00:01:43 UTC 2017: Now server count is 0
+Fri Nov 17 00:02:57 UTC 2017: Connection accepted
+Fri Nov 17 00:02:57 UTC 2017: [(5) ]
+Fri Nov 17 00:02:57 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 17 00:04:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 17 00:04:43 UTC 2017: write to socket: Broken pipe
+Fri Nov 17 00:04:43 UTC 2017: Deleting 5 from list
+Fri Nov 17 00:04:43 UTC 2017: Now server count is 0
+Fri Nov 17 00:10:55 UTC 2017: Connection accepted
+Fri Nov 17 00:10:55 UTC 2017: [(5) ]
+Fri Nov 17 00:10:55 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 17 00:12:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 17 00:12:43 UTC 2017: write to socket: Broken pipe
+Fri Nov 17 00:12:43 UTC 2017: Deleting 5 from list
+Fri Nov 17 00:12:43 UTC 2017: Now server count is 0
+Fri Nov 17 00:15:55 UTC 2017: Connection accepted
+Fri Nov 17 00:15:55 UTC 2017: [(5) ]
+Fri Nov 17 00:15:55 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 17 10:08:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 17 10:08:43 UTC 2017: write to socket: Broken pipe
+Fri Nov 17 10:08:43 UTC 2017: Deleting 5 from list
+Fri Nov 17 10:08:43 UTC 2017: Now server count is 0
+Fri Nov 17 10:08:56 UTC 2017: Connection accepted
+Fri Nov 17 10:08:56 UTC 2017: [(5) ]
+Fri Nov 17 10:08:56 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 17 19:45:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 17 19:45:43 UTC 2017: write to socket: Broken pipe
+Fri Nov 17 19:45:43 UTC 2017: Deleting 5 from list
+Fri Nov 17 19:45:43 UTC 2017: Now server count is 0
+Fri Nov 17 19:45:48 UTC 2017: Connection accepted
+Fri Nov 17 19:45:48 UTC 2017: [(5) ]
+Fri Nov 17 19:45:48 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 18 12:41:08 UTC 2017: Connection accepted
+Sat Nov 18 12:41:08 UTC 2017: [(6) (5) ]
+Sat Nov 18 12:41:08 UTC 2017: Handler No. 1 with fd 6 assigned
+Sat Nov 18 12:41:42 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 18 12:41:42 UTC 2017: write to socket: Broken pipe
+Sat Nov 18 12:41:42 UTC 2017: Deleting 5 from list
+Sat Nov 18 12:41:42 UTC 2017: Now server count is 1
+Sun Nov 19 09:22:43 UTC 2017: write to socket 6 returned -1, errno is 32
+Sun Nov 19 09:22:43 UTC 2017: write to socket: Broken pipe
+Sun Nov 19 09:22:43 UTC 2017: Deleting 6 from list
+Sun Nov 19 09:22:43 UTC 2017: Now server count is 0
+Sun Nov 19 09:26:50 UTC 2017: Connection accepted
+Sun Nov 19 09:26:50 UTC 2017: [(5) ]
+Sun Nov 19 09:26:50 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Nov 19 21:43:44 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 19 21:43:44 UTC 2017: write to socket: Broken pipe
+Sun Nov 19 21:43:44 UTC 2017: Deleting 5 from list
+Sun Nov 19 21:43:44 UTC 2017: Now server count is 0
+Sun Nov 19 21:44:04 UTC 2017: Connection accepted
+Sun Nov 19 21:44:04 UTC 2017: [(5) ]
+Sun Nov 19 21:44:04 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Nov 19 23:36:28 UTC 2017: Connection accepted
+Sun Nov 19 23:36:28 UTC 2017: [(6) (5) ]
+Sun Nov 19 23:36:28 UTC 2017: Handler No. 1 with fd 6 assigned
+Sun Nov 19 23:36:43 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 19 23:36:43 UTC 2017: write to socket: Broken pipe
+Sun Nov 19 23:36:43 UTC 2017: Deleting 5 from list
+Sun Nov 19 23:36:43 UTC 2017: Now server count is 1
+Mon Nov 20 08:42:12 UTC 2017: Connection accepted
+Mon Nov 20 08:42:12 UTC 2017: [(5) (6) ]
+Mon Nov 20 08:42:12 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Nov 20 08:42:44 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Nov 20 08:42:44 UTC 2017: write to socket: Broken pipe
+Mon Nov 20 08:42:44 UTC 2017: Deleting 6 from list
+Mon Nov 20 08:42:44 UTC 2017: Now server count is 1
+Tue Nov 21 08:11:44 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 21 08:11:44 UTC 2017: write to socket: Broken pipe
+Tue Nov 21 08:11:44 UTC 2017: Deleting 5 from list
+Tue Nov 21 08:11:44 UTC 2017: Now server count is 0
+Tue Nov 21 12:01:35 UTC 2017: Connection accepted
+Tue Nov 21 12:01:35 UTC 2017: [(5) ]
+Tue Nov 21 12:01:35 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 21 12:04:44 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 21 12:04:44 UTC 2017: write to socket: Broken pipe
+Tue Nov 21 12:04:44 UTC 2017: Deleting 5 from list
+Tue Nov 21 12:04:44 UTC 2017: Now server count is 0
+Tue Nov 21 12:55:12 UTC 2017: Connection accepted
+Tue Nov 21 12:55:12 UTC 2017: [(5) ]
+Tue Nov 21 12:55:12 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 22 00:26:45 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 22 00:26:45 UTC 2017: write to socket: Broken pipe
+Wed Nov 22 00:26:45 UTC 2017: Deleting 5 from list
+Wed Nov 22 00:26:45 UTC 2017: Now server count is 0
+Wed Nov 22 00:28:40 UTC 2017: Connection accepted
+Wed Nov 22 00:28:40 UTC 2017: [(5) ]
+Wed Nov 22 00:28:40 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 22 08:44:46 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 22 08:44:46 UTC 2017: write to socket: Broken pipe
+Wed Nov 22 08:44:46 UTC 2017: Deleting 5 from list
+Wed Nov 22 08:44:46 UTC 2017: Now server count is 0
+Wed Nov 22 08:44:50 UTC 2017: Connection accepted
+Wed Nov 22 08:44:50 UTC 2017: [(5) ]
+Wed Nov 22 08:44:50 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 23 19:38:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 23 19:38:47 UTC 2017: write to socket: Broken pipe
+Thu Nov 23 19:38:47 UTC 2017: Deleting 5 from list
+Thu Nov 23 19:38:47 UTC 2017: Now server count is 0
+Thu Nov 23 19:38:59 UTC 2017: Connection accepted
+Thu Nov 23 19:38:59 UTC 2017: [(5) ]
+Thu Nov 23 19:38:59 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 23 19:41:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 23 19:41:47 UTC 2017: write to socket: Broken pipe
+Thu Nov 23 19:41:47 UTC 2017: Deleting 5 from list
+Thu Nov 23 19:41:47 UTC 2017: Now server count is 0
+Thu Nov 23 19:42:03 UTC 2017: Connection accepted
+Thu Nov 23 19:42:03 UTC 2017: [(5) ]
+Thu Nov 23 19:42:03 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 23 19:43:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 23 19:43:47 UTC 2017: write to socket: Broken pipe
+Thu Nov 23 19:43:47 UTC 2017: Deleting 5 from list
+Thu Nov 23 19:43:47 UTC 2017: Now server count is 0
+Thu Nov 23 19:44:34 UTC 2017: Connection accepted
+Thu Nov 23 19:44:34 UTC 2017: [(5) ]
+Thu Nov 23 19:44:34 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 24 07:12:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 24 07:12:47 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 07:12:47 UTC 2017: Deleting 5 from list
+Fri Nov 24 07:12:47 UTC 2017: Now server count is 0
+Fri Nov 24 09:05:16 UTC 2017: Connection accepted
+Fri Nov 24 09:05:16 UTC 2017: [(5) ]
+Fri Nov 24 09:05:16 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 24 11:22:57 UTC 2017: Connection accepted
+Fri Nov 24 11:22:57 UTC 2017: [(6) (5) ]
+Fri Nov 24 11:22:57 UTC 2017: Handler No. 1 with fd 6 assigned
+Fri Nov 24 11:23:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 24 11:23:47 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 11:23:47 UTC 2017: Deleting 5 from list
+Fri Nov 24 11:23:47 UTC 2017: Now server count is 1
+Fri Nov 24 15:41:46 UTC 2017: write to socket 6 returned -1, errno is 32
+Fri Nov 24 15:41:46 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 15:41:46 UTC 2017: Deleting 6 from list
+Fri Nov 24 15:41:46 UTC 2017: Now server count is 0
+Fri Nov 24 15:41:59 UTC 2017: Connection accepted
+Fri Nov 24 15:41:59 UTC 2017: [(5) ]
+Fri Nov 24 15:41:59 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 24 17:03:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 24 17:03:47 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 17:03:47 UTC 2017: Deleting 5 from list
+Fri Nov 24 17:03:47 UTC 2017: Now server count is 0
+Fri Nov 24 17:03:56 UTC 2017: Connection accepted
+Fri Nov 24 17:03:56 UTC 2017: [(5) ]
+Fri Nov 24 17:03:56 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 24 17:22:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 24 17:22:47 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 17:22:47 UTC 2017: Deleting 5 from list
+Fri Nov 24 17:22:47 UTC 2017: Now server count is 0
+Fri Nov 24 17:22:48 UTC 2017: Connection accepted
+Fri Nov 24 17:22:48 UTC 2017: [(5) ]
+Fri Nov 24 17:22:48 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Nov 24 17:44:36 UTC 2017: Connection accepted
+Fri Nov 24 17:44:36 UTC 2017: [(6) (5) ]
+Fri Nov 24 17:44:36 UTC 2017: Handler No. 1 with fd 6 assigned
+Fri Nov 24 17:44:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Nov 24 17:44:47 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 17:44:47 UTC 2017: Deleting 5 from list
+Fri Nov 24 17:44:47 UTC 2017: Now server count is 1
+Fri Nov 24 21:37:55 UTC 2017: Connection accepted
+Fri Nov 24 21:37:55 UTC 2017: [(5) (6) ]
+Fri Nov 24 21:37:55 UTC 2017: Handler No. 1 with fd 5 assigned
+Fri Nov 24 21:38:46 UTC 2017: write to socket 6 returned -1, errno is 32
+Fri Nov 24 21:38:46 UTC 2017: write to socket: Broken pipe
+Fri Nov 24 21:38:46 UTC 2017: Deleting 6 from list
+Fri Nov 24 21:38:46 UTC 2017: Now server count is 1
+Sat Nov 25 11:04:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 25 11:04:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 11:04:47 UTC 2017: Deleting 5 from list
+Sat Nov 25 11:04:47 UTC 2017: Now server count is 0
+Sat Nov 25 11:04:56 UTC 2017: Connection accepted
+Sat Nov 25 11:04:56 UTC 2017: [(5) ]
+Sat Nov 25 11:04:56 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 25 11:12:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 25 11:12:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 11:12:47 UTC 2017: Deleting 5 from list
+Sat Nov 25 11:12:47 UTC 2017: Now server count is 0
+Sat Nov 25 11:14:36 UTC 2017: Connection accepted
+Sat Nov 25 11:14:36 UTC 2017: [(5) ]
+Sat Nov 25 11:14:36 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 25 11:22:30 UTC 2017: Connection accepted
+Sat Nov 25 11:22:30 UTC 2017: [(6) (5) ]
+Sat Nov 25 11:22:30 UTC 2017: Handler No. 1 with fd 6 assigned
+Sat Nov 25 11:22:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 25 11:22:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 11:22:47 UTC 2017: Deleting 5 from list
+Sat Nov 25 11:22:47 UTC 2017: Now server count is 1
+Sat Nov 25 12:09:47 UTC 2017: write to socket 6 returned -1, errno is 32
+Sat Nov 25 12:09:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 12:09:47 UTC 2017: Deleting 6 from list
+Sat Nov 25 12:09:47 UTC 2017: Now server count is 0
+Sat Nov 25 12:09:51 UTC 2017: Connection accepted
+Sat Nov 25 12:09:51 UTC 2017: [(5) ]
+Sat Nov 25 12:09:51 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 25 18:35:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 25 18:35:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 18:35:47 UTC 2017: Deleting 5 from list
+Sat Nov 25 18:35:47 UTC 2017: Now server count is 0
+Sat Nov 25 18:36:06 UTC 2017: Connection accepted
+Sat Nov 25 18:36:06 UTC 2017: [(5) ]
+Sat Nov 25 18:36:06 UTC 2017: Handler No. 0 with fd 5 assigned
+Sat Nov 25 18:40:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sat Nov 25 18:40:47 UTC 2017: write to socket: Broken pipe
+Sat Nov 25 18:40:47 UTC 2017: Deleting 5 from list
+Sat Nov 25 18:40:47 UTC 2017: Now server count is 0
+Sat Nov 25 18:43:54 UTC 2017: Connection accepted
+Sat Nov 25 18:43:54 UTC 2017: [(5) ]
+Sat Nov 25 18:43:54 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Nov 26 15:53:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 26 15:53:48 UTC 2017: write to socket: Broken pipe
+Sun Nov 26 15:53:48 UTC 2017: Deleting 5 from list
+Sun Nov 26 15:53:48 UTC 2017: Now server count is 0
+Sun Nov 26 15:54:01 UTC 2017: Connection accepted
+Sun Nov 26 15:54:01 UTC 2017: [(5) ]
+Sun Nov 26 15:54:01 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Nov 26 16:04:26 UTC 2017: Connection accepted
+Sun Nov 26 16:04:26 UTC 2017: [(6) (5) ]
+Sun Nov 26 16:04:26 UTC 2017: Handler No. 1 with fd 6 assigned
+Sun Nov 26 16:04:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 26 16:04:48 UTC 2017: write to socket: Broken pipe
+Sun Nov 26 16:04:48 UTC 2017: Deleting 5 from list
+Sun Nov 26 16:04:48 UTC 2017: Now server count is 1
+Sun Nov 26 23:03:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Sun Nov 26 23:03:48 UTC 2017: write to socket: Broken pipe
+Sun Nov 26 23:03:48 UTC 2017: Deleting 6 from list
+Sun Nov 26 23:03:48 UTC 2017: Now server count is 0
+Sun Nov 26 23:06:49 UTC 2017: Connection accepted
+Sun Nov 26 23:06:49 UTC 2017: [(5) ]
+Sun Nov 26 23:06:49 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Nov 26 23:39:25 UTC 2017: Connection accepted
+Sun Nov 26 23:39:25 UTC 2017: [(6) (5) ]
+Sun Nov 26 23:39:25 UTC 2017: Handler No. 1 with fd 6 assigned
+Sun Nov 26 23:39:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Nov 26 23:39:47 UTC 2017: write to socket: Broken pipe
+Sun Nov 26 23:39:47 UTC 2017: Deleting 5 from list
+Sun Nov 26 23:39:47 UTC 2017: Now server count is 1
+Mon Nov 27 11:31:45 UTC 2017: Connection accepted
+Mon Nov 27 11:31:45 UTC 2017: [(5) (6) ]
+Mon Nov 27 11:31:45 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Nov 27 11:31:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Nov 27 11:31:48 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 11:31:48 UTC 2017: Deleting 6 from list
+Mon Nov 27 11:31:48 UTC 2017: Now server count is 1
+Mon Nov 27 12:09:01 UTC 2017: Connection accepted
+Mon Nov 27 12:09:01 UTC 2017: [(6) (5) ]
+Mon Nov 27 12:09:01 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Nov 27 12:09:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Nov 27 12:09:48 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 12:09:48 UTC 2017: Deleting 5 from list
+Mon Nov 27 12:09:48 UTC 2017: Now server count is 1
+Mon Nov 27 12:11:19 UTC 2017: Connection accepted
+Mon Nov 27 12:11:19 UTC 2017: [(5) (6) ]
+Mon Nov 27 12:11:19 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Nov 27 12:11:43 UTC 2017: Connection accepted
+Mon Nov 27 12:11:43 UTC 2017: [(7) (5) (6) ]
+Mon Nov 27 12:11:43 UTC 2017: Handler No. 2 with fd 7 assigned
+Mon Nov 27 12:11:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Nov 27 12:11:48 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 12:11:48 UTC 2017: Deleting 5 from list
+Mon Nov 27 12:11:48 UTC 2017: Now server count is 2
+Mon Nov 27 12:11:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Nov 27 12:11:48 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 12:11:48 UTC 2017: Deleting 6 from list
+Mon Nov 27 12:11:48 UTC 2017: Now server count is 1
+Mon Nov 27 13:07:05 UTC 2017: Connection accepted
+Mon Nov 27 13:07:05 UTC 2017: [(5) (7) ]
+Mon Nov 27 13:07:05 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Nov 27 13:07:47 UTC 2017: write to socket 7 returned -1, errno is 32
+Mon Nov 27 13:07:47 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 13:07:47 UTC 2017: Deleting 7 from list
+Mon Nov 27 13:07:47 UTC 2017: Now server count is 1
+Mon Nov 27 14:56:07 UTC 2017: Connection accepted
+Mon Nov 27 14:56:07 UTC 2017: [(6) (5) ]
+Mon Nov 27 14:56:07 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Nov 27 15:10:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Nov 27 15:10:48 UTC 2017: write to socket: Broken pipe
+Mon Nov 27 15:10:48 UTC 2017: Deleting 6 from list
+Mon Nov 27 15:10:48 UTC 2017: Now server count is 1
+Tue Nov 28 09:48:07 UTC 2017: Connection accepted
+Tue Nov 28 09:48:07 UTC 2017: [(6) (5) ]
+Tue Nov 28 09:48:07 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov 28 09:48:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 28 09:48:48 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 09:48:48 UTC 2017: Deleting 5 from list
+Tue Nov 28 09:48:48 UTC 2017: Now server count is 1
+Tue Nov 28 11:01:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov 28 11:01:48 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 11:01:48 UTC 2017: Deleting 6 from list
+Tue Nov 28 11:01:48 UTC 2017: Now server count is 0
+Tue Nov 28 11:02:07 UTC 2017: Connection accepted
+Tue Nov 28 11:02:07 UTC 2017: [(5) ]
+Tue Nov 28 11:02:07 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 28 11:09:56 UTC 2017: Connection accepted
+Tue Nov 28 11:09:56 UTC 2017: [(6) (5) ]
+Tue Nov 28 11:09:56 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov 28 11:17:48 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov 28 11:17:48 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 11:17:48 UTC 2017: Deleting 6 from list
+Tue Nov 28 11:17:48 UTC 2017: Now server count is 1
+Tue Nov 28 12:07:57 UTC 2017: Connection accepted
+Tue Nov 28 12:07:57 UTC 2017: [(6) (5) ]
+Tue Nov 28 12:07:57 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Nov 28 12:08:47 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 28 12:08:47 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 12:08:47 UTC 2017: Deleting 5 from list
+Tue Nov 28 12:08:47 UTC 2017: Now server count is 1
+Tue Nov 28 16:04:49 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Nov 28 16:04:49 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 16:04:49 UTC 2017: Deleting 6 from list
+Tue Nov 28 16:04:49 UTC 2017: Now server count is 0
+Tue Nov 28 16:13:43 UTC 2017: Connection accepted
+Tue Nov 28 16:13:43 UTC 2017: [(5) ]
+Tue Nov 28 16:13:43 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 28 17:48:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 28 17:48:48 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 17:48:48 UTC 2017: Deleting 5 from list
+Tue Nov 28 17:48:48 UTC 2017: Now server count is 0
+Tue Nov 28 17:54:04 UTC 2017: Connection accepted
+Tue Nov 28 17:54:04 UTC 2017: [(5) ]
+Tue Nov 28 17:54:04 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Nov 28 21:38:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Nov 28 21:38:48 UTC 2017: write to socket: Broken pipe
+Tue Nov 28 21:38:48 UTC 2017: Deleting 5 from list
+Tue Nov 28 21:38:48 UTC 2017: Now server count is 0
+Tue Nov 28 21:39:06 UTC 2017: Connection accepted
+Tue Nov 28 21:39:06 UTC 2017: [(5) ]
+Tue Nov 28 21:39:06 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 29 09:21:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 29 09:21:48 UTC 2017: write to socket: Broken pipe
+Wed Nov 29 09:21:48 UTC 2017: Deleting 5 from list
+Wed Nov 29 09:21:48 UTC 2017: Now server count is 0
+Wed Nov 29 09:21:50 UTC 2017: Connection accepted
+Wed Nov 29 09:21:50 UTC 2017: [(5) ]
+Wed Nov 29 09:21:50 UTC 2017: Handler No. 0 with fd 5 assigned
+Wed Nov 29 11:26:32 UTC 2017: Connection accepted
+Wed Nov 29 11:26:32 UTC 2017: [(6) (5) ]
+Wed Nov 29 11:26:32 UTC 2017: Handler No. 1 with fd 6 assigned
+Wed Nov 29 11:26:49 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 29 11:26:49 UTC 2017: write to socket: Broken pipe
+Wed Nov 29 11:26:49 UTC 2017: Deleting 5 from list
+Wed Nov 29 11:26:49 UTC 2017: Now server count is 1
+Wed Nov 29 11:30:15 UTC 2017: Connection accepted
+Wed Nov 29 11:30:15 UTC 2017: [(5) (6) ]
+Wed Nov 29 11:30:15 UTC 2017: Handler No. 1 with fd 5 assigned
+Wed Nov 29 11:30:49 UTC 2017: write to socket 6 returned -1, errno is 32
+Wed Nov 29 11:30:49 UTC 2017: write to socket: Broken pipe
+Wed Nov 29 11:30:49 UTC 2017: Deleting 6 from list
+Wed Nov 29 11:30:49 UTC 2017: Now server count is 1
+Wed Nov 29 13:04:12 UTC 2017: Connection accepted
+Wed Nov 29 13:04:12 UTC 2017: [(6) (5) ]
+Wed Nov 29 13:04:12 UTC 2017: Handler No. 1 with fd 6 assigned
+Wed Nov 29 13:04:48 UTC 2017: write to socket 5 returned -1, errno is 32
+Wed Nov 29 13:04:48 UTC 2017: write to socket: Broken pipe
+Wed Nov 29 13:04:48 UTC 2017: Deleting 5 from list
+Wed Nov 29 13:04:48 UTC 2017: Now server count is 1
+Wed Nov 29 14:02:48 UTC 2017: write to socket 6 returned -1, errno is 113
+Wed Nov 29 14:02:48 UTC 2017: write to socket: No route to host
+Wed Nov 29 14:02:48 UTC 2017: Deleting 6 from list
+Wed Nov 29 14:02:48 UTC 2017: Now server count is 0
+Wed Nov 29 14:52:44 UTC 2017: Connection accepted
+Wed Nov 29 14:52:44 UTC 2017: [(5) ]
+Wed Nov 29 14:52:44 UTC 2017: Handler No. 0 with fd 5 assigned
+Thu Nov 30 08:16:50 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Nov 30 08:16:50 UTC 2017: write to socket: Broken pipe
+Thu Nov 30 08:16:50 UTC 2017: Deleting 5 from list
+Thu Nov 30 08:16:50 UTC 2017: Now server count is 0
+Thu Nov 30 08:17:07 UTC 2017: Connection accepted
+Thu Nov 30 08:17:07 UTC 2017: [(5) ]
+Thu Nov 30 08:17:07 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Dec  1 12:51:16 UTC 2017: Connection accepted
+Fri Dec  1 12:51:16 UTC 2017: [(6) (5) ]
+Fri Dec  1 12:51:16 UTC 2017: Handler No. 1 with fd 6 assigned
+Fri Dec  1 12:51:50 UTC 2017: write to socket 5 returned -1, errno is 32
+Fri Dec  1 12:51:50 UTC 2017: write to socket: Broken pipe
+Fri Dec  1 12:51:50 UTC 2017: Deleting 5 from list
+Fri Dec  1 12:51:50 UTC 2017: Now server count is 1
+Sat Dec  2 17:44:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Sat Dec  2 17:44:51 UTC 2017: write to socket: Broken pipe
+Sat Dec  2 17:44:51 UTC 2017: Deleting 6 from list
+Sat Dec  2 17:44:51 UTC 2017: Now server count is 0
+Sat Dec  2 17:44:55 UTC 2017: Connection accepted
+Sat Dec  2 17:44:55 UTC 2017: [(5) ]
+Sat Dec  2 17:44:55 UTC 2017: Handler No. 0 with fd 5 assigned
+Sun Dec  3 13:54:32 UTC 2017: Connection accepted
+Sun Dec  3 13:54:32 UTC 2017: [(6) (5) ]
+Sun Dec  3 13:54:32 UTC 2017: Handler No. 1 with fd 6 assigned
+Sun Dec  3 13:54:51 UTC 2017: write to socket 6 returned -1, errno is 104
+Sun Dec  3 13:54:51 UTC 2017: write to socket: Connection reset by peer
+Sun Dec  3 13:54:51 UTC 2017: Deleting 6 from list
+Sun Dec  3 13:54:51 UTC 2017: Now server count is 1
+Sun Dec  3 16:02:52 UTC 2017: Connection accepted
+Sun Dec  3 16:02:52 UTC 2017: [(6) (5) ]
+Sun Dec  3 16:02:52 UTC 2017: Handler No. 1 with fd 6 assigned
+Sun Dec  3 16:03:50 UTC 2017: write to socket 6 returned -1, errno is 104
+Sun Dec  3 16:03:50 UTC 2017: write to socket: Connection reset by peer
+Sun Dec  3 16:03:50 UTC 2017: Deleting 6 from list
+Sun Dec  3 16:03:50 UTC 2017: Now server count is 1
+Mon Dec  4 08:33:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 08:33:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 08:33:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 08:33:51 UTC 2017: Now server count is 0
+Mon Dec  4 11:01:35 UTC 2017: Connection accepted
+Mon Dec  4 11:01:35 UTC 2017: [(5) ]
+Mon Dec  4 11:01:35 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 11:02:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 11:02:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 11:02:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 11:02:51 UTC 2017: Now server count is 0
+Mon Dec  4 11:52:44 UTC 2017: Connection accepted
+Mon Dec  4 11:52:44 UTC 2017: [(5) ]
+Mon Dec  4 11:52:44 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 11:59:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 11:59:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 11:59:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 11:59:51 UTC 2017: Now server count is 0
+Mon Dec  4 12:00:52 UTC 2017: Connection accepted
+Mon Dec  4 12:00:52 UTC 2017: [(5) ]
+Mon Dec  4 12:00:52 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:17:16 UTC 2017: Connection accepted
+Mon Dec  4 12:17:16 UTC 2017: [(6) (5) ]
+Mon Dec  4 12:17:16 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 12:17:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:17:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:17:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:17:51 UTC 2017: Now server count is 1
+Mon Dec  4 12:17:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:17:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:17:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:17:51 UTC 2017: Now server count is 0
+Mon Dec  4 12:18:13 UTC 2017: Connection accepted
+Mon Dec  4 12:18:13 UTC 2017: [(5) ]
+Mon Dec  4 12:18:13 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:19:28 UTC 2017: Connection accepted
+Mon Dec  4 12:19:28 UTC 2017: [(6) (5) ]
+Mon Dec  4 12:19:28 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 12:19:41 UTC 2017: Connection accepted
+Mon Dec  4 12:19:41 UTC 2017: [(7) (6) (5) ]
+Mon Dec  4 12:19:41 UTC 2017: Handler No. 2 with fd 7 assigned
+Mon Dec  4 12:19:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:19:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:19:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:19:51 UTC 2017: Now server count is 2
+Mon Dec  4 12:19:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:19:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:19:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:19:51 UTC 2017: Now server count is 1
+Mon Dec  4 12:20:20 UTC 2017: Connection accepted
+Mon Dec  4 12:20:20 UTC 2017: [(5) (7) ]
+Mon Dec  4 12:20:20 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Dec  4 12:20:47 UTC 2017: Connection accepted
+Mon Dec  4 12:20:47 UTC 2017: [(6) (5) (7) ]
+Mon Dec  4 12:20:47 UTC 2017: Handler No. 2 with fd 6 assigned
+Mon Dec  4 12:20:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:20:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:20:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:20:51 UTC 2017: Now server count is 2
+Mon Dec  4 12:20:51 UTC 2017: write to socket 7 returned -1, errno is 32
+Mon Dec  4 12:20:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:20:51 UTC 2017: Deleting 7 from list
+Mon Dec  4 12:20:51 UTC 2017: Now server count is 1
+Mon Dec  4 12:21:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:21:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:21:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:21:51 UTC 2017: Now server count is 0
+Mon Dec  4 12:22:37 UTC 2017: Connection accepted
+Mon Dec  4 12:22:37 UTC 2017: [(5) ]
+Mon Dec  4 12:22:37 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:23:21 UTC 2017: Connection accepted
+Mon Dec  4 12:23:21 UTC 2017: [(6) (5) ]
+Mon Dec  4 12:23:21 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 12:23:47 UTC 2017: Connection accepted
+Mon Dec  4 12:23:47 UTC 2017: [(7) (6) (5) ]
+Mon Dec  4 12:23:47 UTC 2017: Handler No. 2 with fd 7 assigned
+Mon Dec  4 12:23:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:23:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:23:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:23:51 UTC 2017: Now server count is 2
+Mon Dec  4 12:23:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:23:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:23:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:23:51 UTC 2017: Now server count is 1
+Mon Dec  4 12:24:14 UTC 2017: Connection accepted
+Mon Dec  4 12:24:14 UTC 2017: [(5) (7) ]
+Mon Dec  4 12:24:14 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Dec  4 12:24:43 UTC 2017: Connection accepted
+Mon Dec  4 12:24:43 UTC 2017: [(6) (5) (7) ]
+Mon Dec  4 12:24:43 UTC 2017: Handler No. 2 with fd 6 assigned
+Mon Dec  4 12:24:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:24:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:24:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:24:51 UTC 2017: Now server count is 2
+Mon Dec  4 12:24:51 UTC 2017: write to socket 7 returned -1, errno is 32
+Mon Dec  4 12:24:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:24:51 UTC 2017: Deleting 7 from list
+Mon Dec  4 12:24:51 UTC 2017: Now server count is 1
+Mon Dec  4 12:25:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:25:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:25:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:25:51 UTC 2017: Now server count is 0
+Mon Dec  4 12:27:20 UTC 2017: Connection accepted
+Mon Dec  4 12:27:20 UTC 2017: [(5) ]
+Mon Dec  4 12:27:20 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:30:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:30:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:30:52 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:30:52 UTC 2017: Now server count is 0
+Mon Dec  4 12:31:51 UTC 2017: Connection accepted
+Mon Dec  4 12:31:51 UTC 2017: [(5) ]
+Mon Dec  4 12:31:51 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:32:18 UTC 2017: Connection accepted
+Mon Dec  4 12:32:18 UTC 2017: [(6) (5) ]
+Mon Dec  4 12:32:18 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 12:32:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:32:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:32:52 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:32:52 UTC 2017: Now server count is 1
+Mon Dec  4 12:32:52 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:32:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:32:52 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:32:52 UTC 2017: Now server count is 0
+Mon Dec  4 12:35:00 UTC 2017: Connection accepted
+Mon Dec  4 12:35:00 UTC 2017: [(5) ]
+Mon Dec  4 12:35:00 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:35:30 UTC 2017: Connection accepted
+Mon Dec  4 12:35:30 UTC 2017: [(6) (5) ]
+Mon Dec  4 12:35:30 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 12:35:46 UTC 2017: Connection accepted
+Mon Dec  4 12:35:46 UTC 2017: [(7) (6) (5) ]
+Mon Dec  4 12:35:46 UTC 2017: Handler No. 2 with fd 7 assigned
+Mon Dec  4 12:35:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 12:35:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:35:52 UTC 2017: Deleting 6 from list
+Mon Dec  4 12:35:52 UTC 2017: Now server count is 2
+Mon Dec  4 12:35:52 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:35:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:35:52 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:35:52 UTC 2017: Now server count is 1
+Mon Dec  4 12:36:52 UTC 2017: write to socket 7 returned -1, errno is 32
+Mon Dec  4 12:36:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:36:52 UTC 2017: Deleting 7 from list
+Mon Dec  4 12:36:52 UTC 2017: Now server count is 0
+Mon Dec  4 12:37:17 UTC 2017: Connection accepted
+Mon Dec  4 12:37:17 UTC 2017: [(5) ]
+Mon Dec  4 12:37:17 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 12:43:52 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 12:43:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 12:43:52 UTC 2017: Deleting 5 from list
+Mon Dec  4 12:43:52 UTC 2017: Now server count is 0
+Mon Dec  4 12:44:17 UTC 2017: Connection accepted
+Mon Dec  4 12:44:17 UTC 2017: [(5) ]
+Mon Dec  4 12:44:17 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec  4 13:36:35 UTC 2017: Connection accepted
+Mon Dec  4 13:36:35 UTC 2017: [(6) (5) ]
+Mon Dec  4 13:36:35 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 13:36:52 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 13:36:52 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 13:36:52 UTC 2017: Deleting 5 from list
+Mon Dec  4 13:36:52 UTC 2017: Now server count is 1
+Mon Dec  4 13:54:00 UTC 2017: Connection accepted
+Mon Dec  4 13:54:00 UTC 2017: [(5) (6) ]
+Mon Dec  4 13:54:00 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Dec  4 13:55:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 13:55:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 13:55:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 13:55:51 UTC 2017: Now server count is 1
+Mon Dec  4 14:39:25 UTC 2017: Connection accepted
+Mon Dec  4 14:39:25 UTC 2017: [(5) (6) ]
+Mon Dec  4 14:39:25 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Dec  4 14:39:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Mon Dec  4 14:39:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 14:39:51 UTC 2017: Deleting 6 from list
+Mon Dec  4 14:39:51 UTC 2017: Now server count is 1
+Mon Dec  4 14:48:59 UTC 2017: Connection accepted
+Mon Dec  4 14:48:59 UTC 2017: [(6) (5) ]
+Mon Dec  4 14:48:59 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec  4 14:49:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec  4 14:49:51 UTC 2017: write to socket: Broken pipe
+Mon Dec  4 14:49:51 UTC 2017: Deleting 5 from list
+Mon Dec  4 14:49:51 UTC 2017: Now server count is 1
+Tue Dec  5 08:19:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 08:19:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 08:19:52 UTC 2017: Deleting 6 from list
+Tue Dec  5 08:19:52 UTC 2017: Now server count is 0
+Tue Dec  5 08:20:00 UTC 2017: Connection accepted
+Tue Dec  5 08:20:00 UTC 2017: [(5) ]
+Tue Dec  5 08:20:00 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Dec  5 09:36:10 UTC 2017: Connection accepted
+Tue Dec  5 09:36:10 UTC 2017: [(6) (5) ]
+Tue Dec  5 09:36:10 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Dec  5 09:36:52 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Dec  5 09:36:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 09:36:52 UTC 2017: Deleting 5 from list
+Tue Dec  5 09:36:52 UTC 2017: Now server count is 1
+Tue Dec  5 09:52:58 UTC 2017: Connection accepted
+Tue Dec  5 09:52:58 UTC 2017: [(5) (6) ]
+Tue Dec  5 09:52:58 UTC 2017: Handler No. 1 with fd 5 assigned
+Tue Dec  5 10:05:09 UTC 2017: Connection accepted
+Tue Dec  5 10:05:09 UTC 2017: [(7) (5) (6) ]
+Tue Dec  5 10:05:09 UTC 2017: Handler No. 2 with fd 7 assigned
+Tue Dec  5 10:05:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 10:05:51 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 10:05:51 UTC 2017: Deleting 6 from list
+Tue Dec  5 10:05:51 UTC 2017: Now server count is 2
+Tue Dec  5 10:10:51 UTC 2017: write to socket 5 returned -1, errno is 32
+Tue Dec  5 10:10:51 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 10:10:51 UTC 2017: Deleting 5 from list
+Tue Dec  5 10:10:51 UTC 2017: Now server count is 1
+Tue Dec  5 10:11:02 UTC 2017: Connection accepted
+Tue Dec  5 10:11:02 UTC 2017: [(5) (7) ]
+Tue Dec  5 10:11:02 UTC 2017: Handler No. 1 with fd 5 assigned
+Tue Dec  5 10:14:49 UTC 2017: Connection accepted
+Tue Dec  5 10:14:49 UTC 2017: [(6) (5) (7) ]
+Tue Dec  5 10:14:49 UTC 2017: Handler No. 2 with fd 6 assigned
+Tue Dec  5 10:14:51 UTC 2017: write to socket 7 returned -1, errno is 32
+Tue Dec  5 10:14:51 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 10:14:51 UTC 2017: Deleting 7 from list
+Tue Dec  5 10:14:51 UTC 2017: Now server count is 2
+Tue Dec  5 10:33:37 UTC 2017: Connection accepted
+Tue Dec  5 10:33:37 UTC 2017: [(7) (6) (5) ]
+Tue Dec  5 10:33:37 UTC 2017: Handler No. 2 with fd 7 assigned
+Tue Dec  5 10:33:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 10:33:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 10:33:52 UTC 2017: Deleting 6 from list
+Tue Dec  5 10:33:52 UTC 2017: Now server count is 2
+Tue Dec  5 10:37:52 UTC 2017: write to socket 7 returned -1, errno is 32
+Tue Dec  5 10:37:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 10:37:52 UTC 2017: Deleting 7 from list
+Tue Dec  5 10:37:52 UTC 2017: Now server count is 1
+Tue Dec  5 10:38:38 UTC 2017: Connection accepted
+Tue Dec  5 10:38:38 UTC 2017: [(6) (5) ]
+Tue Dec  5 10:38:38 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Dec  5 11:10:27 UTC 2017: Connection accepted
+Tue Dec  5 11:10:27 UTC 2017: [(7) (6) (5) ]
+Tue Dec  5 11:10:27 UTC 2017: Handler No. 2 with fd 7 assigned
+Tue Dec  5 11:10:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 11:10:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 11:10:52 UTC 2017: Deleting 6 from list
+Tue Dec  5 11:10:52 UTC 2017: Now server count is 2
+Tue Dec  5 11:17:01 UTC 2017: Connection accepted
+Tue Dec  5 11:17:01 UTC 2017: [(6) (7) (5) ]
+Tue Dec  5 11:17:01 UTC 2017: Handler No. 2 with fd 6 assigned
+Tue Dec  5 11:17:52 UTC 2017: write to socket 7 returned -1, errno is 32
+Tue Dec  5 11:17:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 11:17:52 UTC 2017: Deleting 7 from list
+Tue Dec  5 11:17:52 UTC 2017: Now server count is 2
+Tue Dec  5 11:30:30 UTC 2017: Connection accepted
+Tue Dec  5 11:30:30 UTC 2017: [(7) (6) (5) ]
+Tue Dec  5 11:30:30 UTC 2017: Handler No. 2 with fd 7 assigned
+Tue Dec  5 11:33:51 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 11:33:51 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 11:33:51 UTC 2017: Deleting 6 from list
+Tue Dec  5 11:33:51 UTC 2017: Now server count is 2
+Tue Dec  5 11:36:51 UTC 2017: write to socket 5 returned -1, errno is 110
+Tue Dec  5 11:36:51 UTC 2017: write to socket: Connection timed out
+Tue Dec  5 11:36:51 UTC 2017: Deleting 5 from list
+Tue Dec  5 11:36:51 UTC 2017: Now server count is 1
+Tue Dec  5 13:07:11 UTC 2017: Connection accepted
+Tue Dec  5 13:07:11 UTC 2017: [(5) (7) ]
+Tue Dec  5 13:07:11 UTC 2017: Handler No. 1 with fd 5 assigned
+Tue Dec  5 13:07:34 UTC 2017: Connection accepted
+Tue Dec  5 13:07:34 UTC 2017: [(6) (5) (7) ]
+Tue Dec  5 13:07:34 UTC 2017: Handler No. 2 with fd 6 assigned
+Tue Dec  5 13:11:24 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:11:30 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:11:56 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:12:08 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:14:29 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:14:35 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:18:10 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:18:16 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:19:25 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:20:20 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:12 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:45 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:50 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:54 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:57 UTC 2017: No handler assigned as max connection count (3) reached
+Tue Dec  5 13:21:59 UTC 2017: No handler assigned as max connection count (3) reached
+** Trapped CTRL-C
+Tue Dec  5 13:22:58 UTC 2017: Server will be stopped
+Tue Dec  5 13:22:58 UTC 2017: Waiting server thread to stop
+Tue Dec  5 13:22:58 UTC 2017: Forced stop of thread
+Tue Dec  5 13:22:58 UTC 2017: End of thread
+Tue Dec  5 13:22:58 UTC 2017: 
+Tue Dec  5 13:22:58 UTC 2017: Deleted value:(6)
+Tue Dec  5 13:22:58 UTC 2017: Deleted value:(5)
+Tue Dec  5 13:22:58 UTC 2017: Deleted value:(7) []
+Tue Dec  5 13:23:01 UTC 2017: Socket created
+Tue Dec  5 13:23:01 UTC 2017: Bind done
+Tue Dec  5 13:23:01 UTC 2017: Waiting for incoming connections...
+Tue Dec  5 13:24:16 UTC 2017: Connection accepted
+Tue Dec  5 13:24:16 UTC 2017: [(5) ]
+Tue Dec  5 13:24:16 UTC 2017: Handler No. 0 with fd 5 assigned
+** Trapped CTRL-C
+Tue Dec  5 13:51:45 UTC 2017: Server will be stopped
+Tue Dec  5 13:51:45 UTC 2017: Waiting server thread to stop
+Tue Dec  5 13:51:45 UTC 2017: Forced stop of thread
+Tue Dec  5 13:51:45 UTC 2017: End of thread
+Tue Dec  5 13:51:45 UTC 2017: 
+Tue Dec  5 13:51:45 UTC 2017: Deleted value:(5) []
+Tue Dec  5 13:51:52 UTC 2017: Socket created
+Tue Dec  5 13:51:52 UTC 2017: Bind done
+Tue Dec  5 13:51:52 UTC 2017: Waiting for incoming connections...
+Tue Dec  5 13:52:06 UTC 2017: Client IP is 193.105.155.160
+Tue Dec  5 13:52:06 UTC 2017: Connection accepted
+Tue Dec  5 13:52:06 UTC 2017: [(5) ]
+Tue Dec  5 13:52:06 UTC 2017: Handler No. 0 with fd 5 assigned
+Tue Dec  5 13:55:00 UTC 2017: Client IP is 193.105.155.7
+Tue Dec  5 13:55:00 UTC 2017: Connection accepted
+Tue Dec  5 13:55:00 UTC 2017: [(6) (5) ]
+Tue Dec  5 13:55:00 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Dec  5 13:56:52 UTC 2017: write to socket 6 returned -1, errno is 32
+Tue Dec  5 13:56:52 UTC 2017: write to socket: Broken pipe
+Tue Dec  5 13:56:52 UTC 2017: Deleting 6 from list
+Tue Dec  5 13:56:52 UTC 2017: Now server count is 1
+Tue Dec  5 16:59:51 UTC 2017: Client IP is 5.39.217.86
+Tue Dec  5 16:59:51 UTC 2017: Connection accepted
+Tue Dec  5 16:59:51 UTC 2017: [(6) (5) ]
+Tue Dec  5 16:59:51 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Dec  5 16:59:52 UTC 2017: write to socket 6 returned -1, errno is 104
+Tue Dec  5 16:59:52 UTC 2017: write to socket: Connection reset by peer
+Tue Dec  5 16:59:52 UTC 2017: Deleting 6 from list
+Tue Dec  5 16:59:52 UTC 2017: Now server count is 1
+Tue Dec  5 20:10:19 UTC 2017: Client IP is 193.105.155.160
+Tue Dec  5 20:10:19 UTC 2017: Connection accepted
+Tue Dec  5 20:10:19 UTC 2017: [(6) (5) ]
+Tue Dec  5 20:10:19 UTC 2017: Handler No. 1 with fd 6 assigned
+Tue Dec  5 20:26:50 UTC 2017: write to socket 5 returned -1, errno is 110
+Tue Dec  5 20:26:50 UTC 2017: write to socket: Connection timed out
+Tue Dec  5 20:26:51 UTC 2017: Deleting 5 from list
+Tue Dec  5 20:26:51 UTC 2017: Now server count is 1
+Wed Dec  6 22:41:49 UTC 2017: Client IP is 193.105.155.160
+Wed Dec  6 22:41:49 UTC 2017: Connection accepted
+Wed Dec  6 22:41:49 UTC 2017: [(5) (6) ]
+Wed Dec  6 22:41:49 UTC 2017: Handler No. 1 with fd 5 assigned
+Wed Dec  6 22:57:52 UTC 2017: write to socket 6 returned -1, errno is 110
+Wed Dec  6 22:57:52 UTC 2017: write to socket: Connection timed out
+Wed Dec  6 22:57:52 UTC 2017: Deleting 6 from list
+Wed Dec  6 22:57:52 UTC 2017: Now server count is 1
+Thu Dec  7 10:50:24 UTC 2017: Client IP is 193.105.155.160
+Thu Dec  7 10:50:24 UTC 2017: Connection accepted
+Thu Dec  7 10:50:24 UTC 2017: [(6) (5) ]
+Thu Dec  7 10:50:24 UTC 2017: Handler No. 1 with fd 6 assigned
+Thu Dec  7 11:06:52 UTC 2017: write to socket 5 returned -1, errno is 110
+Thu Dec  7 11:06:52 UTC 2017: write to socket: Connection timed out
+Thu Dec  7 11:06:52 UTC 2017: Deleting 5 from list
+Thu Dec  7 11:06:52 UTC 2017: Now server count is 1
+Thu Dec  7 13:43:12 UTC 2017: Client IP is 193.105.155.160
+Thu Dec  7 13:43:12 UTC 2017: Connection accepted
+Thu Dec  7 13:43:12 UTC 2017: [(5) (6) ]
+Thu Dec  7 13:43:12 UTC 2017: Handler No. 1 with fd 5 assigned
+Thu Dec  7 13:53:52 UTC 2017: write to socket 6 returned -1, errno is 110
+Thu Dec  7 13:53:52 UTC 2017: write to socket: Connection timed out
+Thu Dec  7 13:53:52 UTC 2017: Deleting 6 from list
+Thu Dec  7 13:53:52 UTC 2017: Now server count is 1
+Thu Dec  7 14:58:52 UTC 2017: Client IP is 193.105.155.160
+Thu Dec  7 14:58:52 UTC 2017: Connection accepted
+Thu Dec  7 14:58:52 UTC 2017: [(6) (5) ]
+Thu Dec  7 14:58:52 UTC 2017: Handler No. 1 with fd 6 assigned
+Thu Dec  7 14:58:53 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Dec  7 14:58:53 UTC 2017: write to socket: Broken pipe
+Thu Dec  7 14:58:53 UTC 2017: Deleting 5 from list
+Thu Dec  7 14:58:53 UTC 2017: Now server count is 1
+Thu Dec  7 19:38:51 UTC 2017: Client IP is 207.244.94.41
+Thu Dec  7 19:38:51 UTC 2017: Connection accepted
+Thu Dec  7 19:38:51 UTC 2017: [(5) (6) ]
+Thu Dec  7 19:38:51 UTC 2017: Handler No. 1 with fd 5 assigned
+Thu Dec  7 19:38:52 UTC 2017: Client IP is 207.244.94.41
+Thu Dec  7 19:38:52 UTC 2017: Connection accepted
+Thu Dec  7 19:38:52 UTC 2017: [(7) (5) (6) ]
+Thu Dec  7 19:38:52 UTC 2017: Handler No. 2 with fd 7 assigned
+Thu Dec  7 19:38:55 UTC 2017: Client IP is 207.244.94.41
+Thu Dec  7 19:38:55 UTC 2017: No handler assigned as max connection count (3) reached
+Thu Dec  7 19:38:56 UTC 2017: Client IP is 207.244.94.41
+Thu Dec  7 19:38:56 UTC 2017: No handler assigned as max connection count (3) reached
+Thu Dec  7 19:39:53 UTC 2017: write to socket 7 returned -1, errno is 32
+Thu Dec  7 19:39:53 UTC 2017: write to socket: Broken pipe
+Thu Dec  7 19:39:53 UTC 2017: Deleting 7 from list
+Thu Dec  7 19:39:53 UTC 2017: Now server count is 2
+Thu Dec  7 19:39:53 UTC 2017: write to socket 5 returned -1, errno is 32
+Thu Dec  7 19:39:53 UTC 2017: write to socket: Broken pipe
+Thu Dec  7 19:39:53 UTC 2017: Deleting 5 from list
+Thu Dec  7 19:39:53 UTC 2017: Now server count is 1
+Fri Dec  8 00:06:41 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 00:06:41 UTC 2017: Connection accepted
+Fri Dec  8 00:06:41 UTC 2017: [(5) (6) ]
+Fri Dec  8 00:06:41 UTC 2017: Handler No. 1 with fd 5 assigned
+Fri Dec  8 00:22:52 UTC 2017: write to socket 6 returned -1, errno is 110
+Fri Dec  8 00:22:52 UTC 2017: write to socket: Connection timed out
+Fri Dec  8 00:22:52 UTC 2017: Deleting 6 from list
+Fri Dec  8 00:22:52 UTC 2017: Now server count is 1
+Fri Dec  8 07:39:43 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 07:39:43 UTC 2017: Connection accepted
+Fri Dec  8 07:39:43 UTC 2017: [(6) (5) ]
+Fri Dec  8 07:39:43 UTC 2017: Handler No. 1 with fd 6 assigned
+Fri Dec  8 07:40:07 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 07:40:07 UTC 2017: Connection accepted
+Fri Dec  8 07:40:07 UTC 2017: [(7) (6) (5) ]
+Fri Dec  8 07:40:07 UTC 2017: Handler No. 2 with fd 7 assigned
+Fri Dec  8 07:55:52 UTC 2017: write to socket 5 returned -1, errno is 110
+Fri Dec  8 07:55:52 UTC 2017: write to socket: Connection timed out
+Fri Dec  8 07:55:52 UTC 2017: Deleting 5 from list
+Fri Dec  8 07:55:52 UTC 2017: Now server count is 2
+Fri Dec  8 07:56:52 UTC 2017: write to socket 6 returned -1, errno is 110
+Fri Dec  8 07:56:52 UTC 2017: write to socket: Connection timed out
+Fri Dec  8 07:56:52 UTC 2017: Deleting 6 from list
+Fri Dec  8 07:56:52 UTC 2017: Now server count is 1
+Fri Dec  8 09:00:53 UTC 2017: write to socket 7 returned -1, errno is 32
+Fri Dec  8 09:00:53 UTC 2017: write to socket: Broken pipe
+Fri Dec  8 09:00:53 UTC 2017: Deleting 7 from list
+Fri Dec  8 09:00:53 UTC 2017: Now server count is 0
+Fri Dec  8 09:02:03 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 09:02:03 UTC 2017: Connection accepted
+Fri Dec  8 09:02:03 UTC 2017: [(5) ]
+Fri Dec  8 09:02:03 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Dec  8 09:31:52 UTC 2017: write to socket 5 returned -1, errno is 110
+Fri Dec  8 09:31:52 UTC 2017: write to socket: Connection timed out
+Fri Dec  8 09:31:52 UTC 2017: Deleting 5 from list
+Fri Dec  8 09:31:52 UTC 2017: Now server count is 0
+Fri Dec  8 11:47:09 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 11:47:09 UTC 2017: Connection accepted
+Fri Dec  8 11:47:09 UTC 2017: [(5) ]
+Fri Dec  8 11:47:09 UTC 2017: Handler No. 0 with fd 5 assigned
+Fri Dec  8 12:34:41 UTC 2017: Client IP is 193.105.155.160
+Fri Dec  8 12:34:41 UTC 2017: Connection accepted
+Fri Dec  8 12:34:41 UTC 2017: [(6) (5) ]
+Fri Dec  8 12:34:41 UTC 2017: Handler No. 1 with fd 6 assigned
+Fri Dec  8 12:46:52 UTC 2017: write to socket 5 returned -1, errno is 110
+Fri Dec  8 12:46:52 UTC 2017: write to socket: Connection timed out
+Fri Dec  8 12:46:52 UTC 2017: Deleting 5 from list
+Fri Dec  8 12:46:52 UTC 2017: Now server count is 1
+Sat Dec  9 13:16:11 UTC 2017: Client IP is 193.105.155.160
+Sat Dec  9 13:16:11 UTC 2017: Connection accepted
+Sat Dec  9 13:16:11 UTC 2017: [(5) (6) ]
+Sat Dec  9 13:16:11 UTC 2017: Handler No. 1 with fd 5 assigned
+Sat Dec  9 13:32:53 UTC 2017: write to socket 6 returned -1, errno is 110
+Sat Dec  9 13:32:53 UTC 2017: write to socket: Connection timed out
+Sat Dec  9 13:32:53 UTC 2017: Deleting 6 from list
+Sat Dec  9 13:32:53 UTC 2017: Now server count is 1
+Sun Dec 10 00:15:54 UTC 2017: write to socket 5 returned -1, errno is 32
+Sun Dec 10 00:15:54 UTC 2017: write to socket: Broken pipe
+Sun Dec 10 00:15:54 UTC 2017: Deleting 5 from list
+Sun Dec 10 00:15:54 UTC 2017: Now server count is 0
+Sun Dec 10 00:18:52 UTC 2017: Client IP is 193.105.155.160
+Sun Dec 10 00:18:52 UTC 2017: Connection accepted
+Sun Dec 10 00:18:52 UTC 2017: [(5) ]
+Sun Dec 10 00:18:52 UTC 2017: Handler No. 0 with fd 5 assigned
+Mon Dec 11 16:54:48 UTC 2017: Client IP is 193.105.155.160
+Mon Dec 11 16:54:48 UTC 2017: Connection accepted
+Mon Dec 11 16:54:48 UTC 2017: [(6) (5) ]
+Mon Dec 11 16:54:48 UTC 2017: Handler No. 1 with fd 6 assigned
+Mon Dec 11 16:54:55 UTC 2017: write to socket 5 returned -1, errno is 32
+Mon Dec 11 16:54:55 UTC 2017: write to socket: Broken pipe
+Mon Dec 11 16:54:55 UTC 2017: Deleting 5 from list
+Mon Dec 11 16:54:55 UTC 2017: Now server count is 1
+Mon Dec 11 16:55:23 UTC 2017: Client IP is 193.105.155.160
+Mon Dec 11 16:55:23 UTC 2017: Connection accepted
+Mon Dec 11 16:55:23 UTC 2017: [(5) (6) ]
+Mon Dec 11 16:55:23 UTC 2017: Handler No. 1 with fd 5 assigned
+Mon Dec 11 17:04:28 UTC 2017: Client IP is 193.105.155.160
+Mon Dec 11 17:04:28 UTC 2017: Connection accepted
+Mon Dec 11 17:04:28 UTC 2017: [(7) (5) (6) ]
+Mon Dec 11 17:04:28 UTC 2017: Handler No. 2 with fd 7 assigned
+Mon Dec 11 17:11:54 UTC 2017: write to socket 6 returned -1, errno is 110
+Mon Dec 11 17:11:54 UTC 2017: write to socket: Connection timed out
+Mon Dec 11 17:11:54 UTC 2017: Deleting 6 from list
+Mon Dec 11 17:11:54 UTC 2017: Now server count is 2
+Mon Dec 11 17:12:54 UTC 2017: write to socket 5 returned -1, errno is 110
+Mon Dec 11 17:12:54 UTC 2017: write to socket: Connection timed out
+Mon Dec 11 17:12:54 UTC 2017: Deleting 5 from list
+Mon Dec 11 17:12:54 UTC 2017: Now server count is 1

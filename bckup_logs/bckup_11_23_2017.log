@@ -1,0 +1,22 @@
+sending incremental file list
+./
+METEO_2017-11-22.log
+
+sent 138,916 bytes  received 38 bytes  277,908.00 bytes/sec
+total size is 4,515,145  speedup is 32.49
+sending incremental file list
+./
+METEO_2017-11-23.log
+
+sent 50,260 bytes  received 38 bytes  100,596.00 bytes/sec
+total size is 4,564,439  speedup is 90.75
+sending incremental file list
+METEO_2017-11-23.log
+
+sent 7,539 bytes  received 461 bytes  16,000.00 bytes/sec
+total size is 4,570,444  speedup is 571.31
+sending incremental file list
+METEO_2017-11-23.log
+
+sent 18,224 bytes  received 509 bytes  37,466.00 bytes/sec
+total size is 4,586,698  speedup is 244.85
